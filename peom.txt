@@ -1,4 +1,4 @@
-Rainbow
+Rainbow and Unicorn
 
 Red
 Yellow
@@ -7,3 +7,4 @@ Voilet
 Blue
 Orange
 Purple
+Unicorn
