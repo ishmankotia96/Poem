@@ -4,6 +4,7 @@ Red
 Yellow
 Green
 Voilet
+Magenta
 Blue
 Orange
 Purple
